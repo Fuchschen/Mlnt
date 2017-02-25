@@ -1,2 +1,9 @@
 # Mlnt
-To share some picture...?
+Mk Law Newcomer TEAM
+
+#include <stdio.h>
+
+main()
+{
+  printf("Hello");
+}
